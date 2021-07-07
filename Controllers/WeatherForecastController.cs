@@ -24,13 +24,10 @@ namespace day1._1.Controllers
         }
 
         [HttpGet]
-        public List<WeatherForecast> Get()
+        public List<WeatherForecast> Get(string cityName)
         {
             var result = new List<WeatherForecast>();
-            var a = new WeatherForecast { Date = DateTime.Now, TemperatureC = 25, Summary = "123" };
-            result.Add(a);
-            a.TemperatureF = 50;
-            result.Add(a);
+            var a = new WeatherForecast { Date = DateTime.Now, TemperatureC = 25, Summary = cityName };
             result.Add(a);
 
             return result;
