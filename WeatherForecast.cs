@@ -2,14 +2,22 @@ using System;
 
 namespace day1._1
 {
+    // 天气预报
     public class WeatherForecast
     {
-        public DateTime Date { get; set; }
+        /// <summary>
+        /// 城市
+        /// </summary>
+        public string city_name { get; set; }
 
-        public int TemperatureC { get; set; }
+        /// <summary>
+        /// 温度
+        /// </summary>
+        public int Temperatures { get; set; }
 
-        public int? TemperatureF { get; set; }
-
-        public string Summary { get; set; }
+        /// <summary>
+        /// 天气
+        /// </summary>
+        public string Weather { get; set; }
     }
 }

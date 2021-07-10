@@ -1,0 +1,32 @@
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.csproj.AssemblyReference.cache
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.AssemblyInfo.cs
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\appsettings.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\src\main\resources\citycode-2019-08-23.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Controllers\citycode.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.exe
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.deps.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.runtimeconfig.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.runtimeconfig.dev.json
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\ref\Weather Forecast.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Weather Forecast.pdb
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\26472\source\repos\day1.1\day1.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\staticwebassets\Weather Forecast.StaticWebAssets.Manifest.cache
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\staticwebassets\Weather Forecast.StaticWebAssets.xml
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\scopedcss\bundle\Weather Forecast.styles.css
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.RazorTargetAssemblyInfo.cache
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.csproj.CopyComplete
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.dll
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\ref\Weather Forecast.dll
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.pdb
+C:\Users\26472\source\repos\day1.1\day1.1\obj\Debug\net5.0\Weather Forecast.genruntimeconfig.cache
